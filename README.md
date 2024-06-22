@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-les étapes à suivre pour avoir un environnement de développement : ( modified by Mohamed Ilougui)
+les étapes à suivre pour avoir un environnement de développement :
 
 
 ```
